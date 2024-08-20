@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: aliceblue;
+    text-shadow: 4px 4px 13px gray;
+    padding: 25px;
+    background: linear-gradient(black, white);
+}
+
+img {
+    width: 200px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-evenly;
+}
